@@ -1,0 +1,17 @@
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\bin\Release\net10.0\SilksongArabicLauncher.Core.deps.json
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\bin\Release\net10.0\SilksongArabicLauncher.Core.dll
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\bin\Release\net10.0\SilksongArabicLauncher.Core.pdb
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\obj\Release\net10.0\SilksongArabicLauncher.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\obj\Release\net10.0\SilksongArabicLauncher.Core.AssemblyInfoInputs.cache
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\obj\Release\net10.0\SilksongArabicLauncher.Core.AssemblyInfo.cs
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\obj\Release\net10.0\SilksongArabicLauncher.Core.csproj.CoreCompileInputs.cache
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\obj\Release\net10.0\SilksongArabicLauncher.Core.dll
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\obj\Release\net10.0\refint\SilksongArabicLauncher.Core.dll
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\obj\Release\net10.0\SilksongArabicLauncher.Core.pdb
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\obj\Release\net10.0\ref\SilksongArabicLauncher.Core.dll
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\dist\build-output\Release\net10.0\SilksongArabicLauncher.Core.deps.json
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\dist\build-output\Release\net10.0\SilksongArabicLauncher.Core.dll
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\dist\build-output\Release\net10.0\SilksongArabicLauncher.Core.pdb
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\dist\build-output-20261104\Release\net10.0\SilksongArabicLauncher.Core.deps.json
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\dist\build-output-20261104\Release\net10.0\SilksongArabicLauncher.Core.dll
+C:\Users\mouad\Desktop\Call of Duty - Modern Warfare 2 CR trib\SilksongArabicLauncher\src\SilksongArabicLauncher.Core\dist\build-output-20261104\Release\net10.0\SilksongArabicLauncher.Core.pdb

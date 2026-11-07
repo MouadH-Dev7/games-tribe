@@ -1,0 +1,55 @@
+{
+  "status": "offline TVFS parse; no game directory opened",
+  "active_build": "NOT VERIFIED in offline mode; blob provenance is external to this parse",
+  "vfs_root_region": {
+    "source": "C:\\Users\\mouad\\Desktop\\Call of Duty - Modern Warfare 2 CR trib\\ArabizeGamesLauncher-MW2-2009\\tools\\install-manifest-prototype\\out\\phase12f\\vfs_root.bin",
+    "decoded_size": 57384,
+    "sha256": "f33fdf88c4f3aba85fddf33a59e04688d1fe8d6ac0548437487a735250dfcde8"
+  },
+  "input_reads": [
+    {
+      "path": "C:\\Users\\mouad\\Desktop\\Call of Duty - Modern Warfare 2 CR trib\\ArabizeGamesLauncher-MW2-2009\\tools\\install-manifest-prototype\\out\\phase12f\\vfs_root.bin",
+      "offset": 0,
+      "length": 57384,
+      "sha256": "f33fdf88c4f3aba85fddf33a59e04688d1fe8d6ac0548437487a735250dfcde8"
+    }
+  ],
+  "validation": {
+    "build_identity": false,
+    "unique_index_match": false,
+    "local_header": false,
+    "BLTE_chunk_hashes": false,
+    "decoded_vfs_root_MD5_and_size": false,
+    "referenced_assets_read": false,
+    "TVFS_bounds_and_paths": true
+  },
+  "tvfs_header": {
+    "version": 1,
+    "header_size": 38,
+    "ekey_size": 9,
+    "patch_key_size": 9,
+    "flags": 134217728,
+    "path_offset": 38,
+    "path_size": 25123,
+    "vfs_offset": 40308,
+    "vfs_size": 17076,
+    "cft_offset": 25161,
+    "cft_size": 15147,
+    "max_depth": 9,
+    "est_offset": 0,
+    "est_size": 0,
+    "cft_offset_width": 2
+  },
+  "inventory": {
+    "duplicate_paths": 0,
+    "invalid_paths": 0,
+    "unresolved_or_unsupported": [],
+    "parsed_path_count": 1536,
+    "path_table_bytes": 25123,
+    "vfs_table_bytes": 17076,
+    "cft_table_bytes": 15147
+  },
+  "duplicate_path_count": 0,
+  "invalid_path_count": 0,
+  "unsupported_or_unresolved": []
+}

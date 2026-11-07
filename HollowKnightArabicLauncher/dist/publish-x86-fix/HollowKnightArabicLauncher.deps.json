@@ -1,0 +1,40 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0/win-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {},
+    ".NETCoreApp,Version=v10.0/win-x64": {
+      "HollowKnightArabicLauncher/1.0.0": {
+        "dependencies": {
+          "HollowKnightArabicLauncher.Core": "1.0.0"
+        },
+        "runtime": {
+          "HollowKnightArabicLauncher.dll": {}
+        }
+      },
+      "HollowKnightArabicLauncher.Core/1.0.0": {
+        "runtime": {
+          "HollowKnightArabicLauncher.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HollowKnightArabicLauncher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HollowKnightArabicLauncher.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

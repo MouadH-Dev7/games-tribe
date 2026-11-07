@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArabizeGamesLauncher", "src\ArabizeGamesLauncher\ArabizeGamesLauncher.csproj", "{B29E13EF-83A1-4F7D-9BB5-F65A6406E354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArabizeGamesLauncher.Tests", "tests\ArabizeGamesLauncher.Tests\ArabizeGamesLauncher.Tests.csproj", "{394F81D0-C5AA-45C6-9D37-E8D0D963D4C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B29E13EF-83A1-4F7D-9BB5-F65A6406E354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29E13EF-83A1-4F7D-9BB5-F65A6406E354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29E13EF-83A1-4F7D-9BB5-F65A6406E354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29E13EF-83A1-4F7D-9BB5-F65A6406E354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{394F81D0-C5AA-45C6-9D37-E8D0D963D4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394F81D0-C5AA-45C6-9D37-E8D0D963D4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394F81D0-C5AA-45C6-9D37-E8D0D963D4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394F81D0-C5AA-45C6-9D37-E8D0D963D4C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

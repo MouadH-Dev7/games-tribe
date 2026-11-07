@@ -1,0 +1,48 @@
+<Application x:Class="HollowKnightArabicLauncher.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             ShutdownMode="OnMainWindowClose">
+    <Application.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVisibilityConverter" />
+        <SolidColorBrush x:Key="BackgroundBrush" Color="#0B0D12" />
+        <SolidColorBrush x:Key="SurfaceBrush" Color="#111318" />
+        <SolidColorBrush x:Key="CardBrush" Color="#171C27" />
+        <SolidColorBrush x:Key="ElevatedBrush" Color="#1E2532" />
+        <SolidColorBrush x:Key="BrightSurfaceBrush" Color="#37393F" />
+        <SolidColorBrush x:Key="AccentBrush" Color="#A3E635" />
+        <SolidColorBrush x:Key="CyanBrush" Color="#38BDF8" />
+        <SolidColorBrush x:Key="NeonCyanBrush" Color="#00F0FF" />
+        <SolidColorBrush x:Key="BorderBrush" Color="#2A3140" />
+        <SolidColorBrush x:Key="PrimaryTextBrush" Color="#F4F6FA" />
+        <SolidColorBrush x:Key="SecondaryTextBrush" Color="#9AA4B2" />
+        <Style TargetType="Button">
+            <Setter Property="Padding" Value="14,9" />
+            <Setter Property="Margin" Value="4" />
+            <Setter Property="Foreground" Value="#10151C" />
+            <Setter Property="Background" Value="{StaticResource AccentBrush}" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="FontWeight" Value="SemiBold" />
+            <Setter Property="Cursor" Value="Hand" />
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True"><Setter Property="Background" Value="#C5F76A" /></Trigger>
+                <Trigger Property="IsPressed" Value="True"><Setter Property="Background" Value="#82C91E" /></Trigger>
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter Property="Background" Value="#282A2F" />
+                    <Setter Property="Foreground" Value="#717B88" />
+                    <Setter Property="Cursor" Value="Arrow" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Padding" Value="9,7" />
+            <Setter Property="Margin" Value="3" />
+            <Setter Property="Background" Value="#111923" />
+            <Setter Property="Foreground" Value="{StaticResource PrimaryTextBrush}" />
+            <Setter Property="BorderBrush" Value="{StaticResource BorderBrush}" />
+            <Style.Triggers>
+                <Trigger Property="IsKeyboardFocused" Value="True"><Setter Property="BorderBrush" Value="{StaticResource CyanBrush}" /></Trigger>
+            </Style.Triggers>
+        </Style>
+    </Application.Resources>
+</Application>
+

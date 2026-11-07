@@ -1,0 +1,5 @@
+.build-cache/
+**/bin/
+**/obj/
+src/ArabizeGamesLauncher/bin/**/.local-data/
+src/ArabizeGamesLauncher/obj/**/.local-data/

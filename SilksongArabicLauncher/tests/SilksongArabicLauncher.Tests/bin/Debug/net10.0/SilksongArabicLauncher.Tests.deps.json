@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SilksongArabicLauncher.Tests/1.0.0": {
+        "dependencies": {
+          "SilksongArabicLauncher.Core": "1.0.0"
+        },
+        "runtime": {
+          "SilksongArabicLauncher.Tests.dll": {}
+        }
+      },
+      "SilksongArabicLauncher.Core/1.0.0": {
+        "runtime": {
+          "SilksongArabicLauncher.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SilksongArabicLauncher.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SilksongArabicLauncher.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

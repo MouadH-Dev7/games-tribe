@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>..\..\logo\ArabifyApp.ico</ApplicationIcon>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>SilksongArabicLauncher</AssemblyName>
+    <RootNamespace>SilksongArabicLauncher</RootNamespace>
+    <Company>Arabify</Company>
+    <Product>Arabify — Silksong Arabic Launcher</Product>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SilksongArabicLauncher.Core\SilksongArabicLauncher.Core.csproj" />
+    <Content Include="..\..\diagnostics\phase-2-installation-manifest-proposal.json" Link="phase-2-installation-manifest-proposal.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="..\..\TranslationPackage\**\*" Link="TranslationPackage\%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" />
+    <Resource Include="..\..\logo\ArabifyAppIcon.png" Link="Assets\ArabifyAppIcon.png" />
+    <Resource Include="..\..\logo\ArabifyApp.ico" Link="Assets\ArabifyApp.ico" />
+  </ItemGroup>
+</Project>

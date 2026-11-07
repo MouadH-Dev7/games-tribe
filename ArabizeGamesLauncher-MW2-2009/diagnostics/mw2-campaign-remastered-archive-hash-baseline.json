@@ -1,0 +1,220 @@
+{
+  "createdAt": "2026-11-03",
+  "gameId": "mw2-campaign-remastered-pc",
+  "gameDirectory": "C:\\Games\\Call of Duty - Modern Warfare 2 CR",
+  "scope": "Hashes for all small index/config files under Data plus the 1 GiB data.000 shard captured in Phase 1. The remaining 64 large shards were not fully hashed.",
+  "fileCount": 42,
+  "files": [
+    {
+      "relativePath": "Data\\config\\29\\dc\\29dcfc9413388701c4144c2e75aee912",
+      "sizeBytes": 250,
+      "sha256": "B8F1A83EE4EFDE4FF71F7FAAA147C361C23DFF5019915758E88514A3AC052259"
+    },
+    {
+      "relativePath": "Data\\config\\7a\\62\\7a626e70e3745a28974f68885684d819",
+      "sizeBytes": 212,
+      "sha256": "0CBD0F4C997D4909EECF2A7F2B18EF9F98E88C00359B32287058D06437D99F85"
+    },
+    {
+      "relativePath": "Data\\config\\b3\\83\\b383c2289588335da9cf13f42e47433e",
+      "sizeBytes": 731,
+      "sha256": "DEF7C94A48F402E07744663C0AD11C1A0A15963EC18C208C8C5FB8BD5BA1BBC0"
+    },
+    {
+      "relativePath": "Data\\config\\eb\\d3\\ebd38497ab7dd9895822a094a31c0457",
+      "sizeBytes": 738,
+      "sha256": "9BC6952F406C86313D406D174B583E42640822BDFBAC06DD97B7FBCAE48FE9F7"
+    },
+    {
+      "relativePath": "Data\\data\\000000000e.idx",
+      "sizeBytes": 65536,
+      "sha256": "B5B0206DF2F625400FAC1535FCF0B4B1FD538F7D0EC1CD93FCD61D3416C6C208"
+    },
+    {
+      "relativePath": "Data\\data\\000000000f.idx",
+      "sizeBytes": 65536,
+      "sha256": "99946D6F8EC1B679D3DF97AB3939929CBB5EDABE41687D55DA513D430CFA7EEB"
+    },
+    {
+      "relativePath": "Data\\data\\0100000008.idx",
+      "sizeBytes": 65536,
+      "sha256": "940D2F64A298D6D54CD94006278E61B797C78A6F623BE9CEFCC61FD20A730C99"
+    },
+    {
+      "relativePath": "Data\\data\\0100000009.idx",
+      "sizeBytes": 65536,
+      "sha256": "FCCA9A2CAA1ED60BDDA84F27668F5BFFE4BD3E58CC3491FA3C4D5E3907EB9730"
+    },
+    {
+      "relativePath": "Data\\data\\0200000012.idx",
+      "sizeBytes": 65536,
+      "sha256": "A071F10AFDA954D3B82DE9D9630E354FDF0BAC312ACC0DBFB936E9B8ED85DE3C"
+    },
+    {
+      "relativePath": "Data\\data\\0200000013.idx",
+      "sizeBytes": 65536,
+      "sha256": "E7B181A44B3C682EB33E2ACCF817C3010877026434AE6612EE3204857416A57D"
+    },
+    {
+      "relativePath": "Data\\data\\030000000e.idx",
+      "sizeBytes": 65536,
+      "sha256": "9C4CC513A07E38B62AD2773DB6412209CCBF70957CDEB0653F42B7C0AF16F516"
+    },
+    {
+      "relativePath": "Data\\data\\030000000f.idx",
+      "sizeBytes": 65536,
+      "sha256": "4B23B2A764E90AAE86FDF1CA62FD1B2C2868973CA202964A8DABCF66A54577A1"
+    },
+    {
+      "relativePath": "Data\\data\\0400000008.idx",
+      "sizeBytes": 65536,
+      "sha256": "C55291093BABF2A04371A0DAE71D7F9655016BBD0B705C4FBBD03FE3BE99BAD6"
+    },
+    {
+      "relativePath": "Data\\data\\0400000009.idx",
+      "sizeBytes": 65536,
+      "sha256": "3C2D16C2AFE262CF09048745AD26EB5478BB2E2319B93B3CD8E96F55ABC8887E"
+    },
+    {
+      "relativePath": "Data\\data\\050000000e.idx",
+      "sizeBytes": 65536,
+      "sha256": "A9E9A57108CC8106CAB60E4F5576C7843CEDC09DCA1F0DA1FB259BC6AA1E799D"
+    },
+    {
+      "relativePath": "Data\\data\\050000000f.idx",
+      "sizeBytes": 65536,
+      "sha256": "0008076A361FDB3D9E199B5AE155573144E871F61F8963F77693A36E219303FB"
+    },
+    {
+      "relativePath": "Data\\data\\060000000a.idx",
+      "sizeBytes": 65536,
+      "sha256": "4072484E24661B500CF042942CA68356CD773B7B2DEE69CC896AA268D0B58028"
+    },
+    {
+      "relativePath": "Data\\data\\060000000b.idx",
+      "sizeBytes": 65536,
+      "sha256": "B250BAD72F0773BADE2B8225C6002C61A780FBAE63D8D65A0B052830AEE7B82F"
+    },
+    {
+      "relativePath": "Data\\data\\070000000c.idx",
+      "sizeBytes": 65536,
+      "sha256": "7DFE20FCE0B217F2843696DAD6F6E8C5B0B27FA472F124C8B7899DE5430C2745"
+    },
+    {
+      "relativePath": "Data\\data\\070000000d.idx",
+      "sizeBytes": 65536,
+      "sha256": "A1AF5871A7841AF803B55327F879C980E8EB06F6984009B748D22D49FE5B5778"
+    },
+    {
+      "relativePath": "Data\\data\\0800000011.idx",
+      "sizeBytes": 65536,
+      "sha256": "83BD4FBA21891BE5BAB2C8ECEFCA2E318ABE45368EA1D8815D7D1041A8C92173"
+    },
+    {
+      "relativePath": "Data\\data\\0800000012.idx",
+      "sizeBytes": 65536,
+      "sha256": "5EC5C0E4C0F0755099A1502F9905FD061A8981FA5B293C524397603CF3CCF512"
+    },
+    {
+      "relativePath": "Data\\data\\090000000f.idx",
+      "sizeBytes": 65536,
+      "sha256": "64C1BC2333744A0AE4304935FC2242038245EFCEB0A4FCE9F7D44787D080C722"
+    },
+    {
+      "relativePath": "Data\\data\\0900000010.idx",
+      "sizeBytes": 65536,
+      "sha256": "D511BB25568A50E825E098FE1DA4E124DB1C0EDDB85273912FAF120B24E9F5C6"
+    },
+    {
+      "relativePath": "Data\\data\\0a0000000a.idx",
+      "sizeBytes": 65536,
+      "sha256": "0843D1DB0E91A3849AE264E534BA67F84CB05C7DA960E8DE4AFCE077DE9C0F7B"
+    },
+    {
+      "relativePath": "Data\\data\\0a0000000b.idx",
+      "sizeBytes": 65536,
+      "sha256": "84727AD294ABF4E8E6AA49AB4AF9475439928EE431A3300F422C4002A1795B06"
+    },
+    {
+      "relativePath": "Data\\data\\0b0000000d.idx",
+      "sizeBytes": 65536,
+      "sha256": "150ED4C1CFD234E738DF7385C9AF1E72B140821200006968AA4F1F4EF812C0DF"
+    },
+    {
+      "relativePath": "Data\\data\\0b0000000e.idx",
+      "sizeBytes": 65536,
+      "sha256": "B0C2353112AFA750DA9EC942D57C3C6CC63F8B5CF7FC9E12F91C8880AA93DF6B"
+    },
+    {
+      "relativePath": "Data\\data\\0c00000008.idx",
+      "sizeBytes": 65536,
+      "sha256": "E3DDA8916EDD88B97C1FEE85230385282DB58C98465D0F2C108B9024D3CED9A7"
+    },
+    {
+      "relativePath": "Data\\data\\0c00000009.idx",
+      "sizeBytes": 65536,
+      "sha256": "4FEB6D4AEC3FCAC7835211A4A6B7B6D6F4747C1438F491899E3A44E1B2313916"
+    },
+    {
+      "relativePath": "Data\\data\\0d00000010.idx",
+      "sizeBytes": 65536,
+      "sha256": "C152EE1650A8C26A4BA95A2B4A7DB96D59ECFAE8E7FB6651A1816F04D4F48075"
+    },
+    {
+      "relativePath": "Data\\data\\0d00000011.idx",
+      "sizeBytes": 65536,
+      "sha256": "DDCE7C80CCCCD4A369FEF169B6C4FE3A2BA49A8CE7EA91940CD526A0F0C80888"
+    },
+    {
+      "relativePath": "Data\\data\\0e0000000b.idx",
+      "sizeBytes": 65536,
+      "sha256": "CDE5EF41D2403488BC1A8943F4871A883B5C845D3F876D8597608035386292F7"
+    },
+    {
+      "relativePath": "Data\\data\\0e0000000c.idx",
+      "sizeBytes": 65536,
+      "sha256": "7A4E715DBD6724BD6FC43F39C9970483AF4B908686C01418882F6AD3CF376062"
+    },
+    {
+      "relativePath": "Data\\data\\0f0000000b.idx",
+      "sizeBytes": 65536,
+      "sha256": "899FB8AF976C98084333091BD9E764BAD0BB299B803044A7F7EE5DAE5B180E0D"
+    },
+    {
+      "relativePath": "Data\\data\\0f0000000c.idx",
+      "sizeBytes": 65536,
+      "sha256": "B721FC5120442478EFCE453DA0F6DAF373C5146AB76F36EF0E4A7AED79208D79"
+    },
+    {
+      "relativePath": "Data\\data\\shmem",
+      "sizeBytes": 11280,
+      "sha256": "2D6EE68D7D7CE23740371CE135585219589D91B7420CBABD83FD9FE9BC169C21"
+    },
+    {
+      "relativePath": "Data\\indices\\1a549948b3ce22ed576167195e15f9d5.index",
+      "sizeBytes": 16508,
+      "sha256": "B56851E5E1494CD2C783DA7151036CD1A516A30F3FB3FD5BBAB76E1EA456C0A7"
+    },
+    {
+      "relativePath": "Data\\indices\\3d42e8d5e6c7f42a569e76fc29d35b21.index",
+      "sizeBytes": 16508,
+      "sha256": "D7E6D0CDC6B93BECA9AB3FD9E9D0BC6C66F4250FAED23126A17623D6C68B231B"
+    },
+    {
+      "relativePath": "Data\\indices\\b73c8aa0a9e95880599089d4e8ff933f.index",
+      "sizeBytes": 8268,
+      "sha256": "1A51BFEB96F81A265055B3FBD06F981FCDABA057C0F76E2692C242156E4F1669"
+    },
+    {
+      "relativePath": "Data\\indices\\cf6e06ef1e970d2ee2db419be30f5747.index",
+      "sizeBytes": 4148,
+      "sha256": "69C71E1720D2AE0C2635EA14D90FDAB0129AA116D0F1DA8ECDA893F21AEA5723"
+    },
+    {
+      "relativePath": "Data\\data\\data.000",
+      "sizeBytes": 1073741638,
+      "sha256": "BA31D5D3A73CB3BE69136B1D741000BCF11039AD63D425894186080AB7113A3E",
+      "source": "SHA-256 captured in the Phase 1 read-only inspection"
+    }
+  ]
+}

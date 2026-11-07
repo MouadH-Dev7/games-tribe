@@ -1,0 +1,119 @@
+{
+  "reportType": "Arabize Games Campaign Remastered read-only diagnostic",
+  "generatedAt": "2026-11-03",
+  "target": {
+    "gameId": "mw2-campaign-remastered-pc",
+    "title": "Call of Duty: Modern Warfare 2 Campaign Remastered - PC",
+    "installationPath": "C:\\Games\\Call of Duty - Modern Warfare 2 CR"
+  },
+  "identity": {
+    "confidence": "high",
+    "productName": "Call of Duty: Modern Warfare 2 Campaign Remastered",
+    "executable": "MW2CR.exe",
+    "executableProductName": "Call of Duty: Modern Warfare 2 Campaign Remastered",
+    "executableFileVersion": "1.0.0.0",
+    "executableOriginalFilename": "h2_sp64_ship.exe",
+    "executableSizeBytes": 14803528,
+    "launcher": "MW2 Campaign Remastered Launcher.exe",
+    "launcherFileVersion": "1.16.7.3017",
+    "buildProduct": "lazr",
+    "buildName": "CRC_1279292A_retail_signed_ship",
+    "buildVersion": "1.1.2.1279292",
+    "branch": "eu"
+  },
+  "hashes": {
+    "MW2CRExe": "B0B9909199051ECF1E24A56F6A6F93F47364549F32164F7698DB789D271D8C57",
+    "launcherExe": "98BE58DEF121A6AA23959AADED13877E8F62678BD42C0448C2E603BD1CF9770B",
+    "buildInfo": "8E4876B7287CF4ACD37A8E5A9FB0734D3B85E8DFA3B0FA9D09D1FD724C35784E",
+    "arabicReg": "549259DB97094CC6D008886CA6603DA2417FD57B575284636B814D2F7DA19986",
+    "fileSysCheckCfg": "D753023FBA1AF8E6952C7D7204A1737D26BCE038D689570798A46565FA6D3FBD",
+    "sampleDataIndex": "B5B0206DF2F625400FAC1535FCF0B4B1FD538F7D0EC1CD93FCD61D3416C6C208",
+    "sampleDataShard000": "BA31D5D3A73CB3BE69136B1D741000BCF11039AD63D425894186080AB7113A3E"
+  },
+  "structure": {
+    "topLevel": [
+      "Data",
+      "main",
+      "players2",
+      "_Language Switcher",
+      "_Redist",
+      "MW2CR.exe",
+      "MW2 Campaign Remastered Launcher.exe"
+    ],
+    "dataFiles": 106,
+    "dataTotalBytes": 69551773736,
+    "dataConfig": "Four short hash-named text configurations under Data\\config; contents identify CDN archives/indexes and builds.",
+    "dataData": "65 numbered data.000 through data.064 shards, 32 65536-byte .idx files, and one shmem file.",
+    "dataIndices": "Four hash-named .index files; configuration references archive groups and file indexes.",
+    "main": [
+      "save",
+      "fileSysCheck.cfg"
+    ],
+    "players2": [
+      "0",
+      "382793008",
+      "default"
+    ]
+  },
+  "localization": {
+    "buildInfoTags": "EU? acct-RUS? geoip-RU? arSA speech?:EU? acct-RUS? geoip-RU? arSA text?:EU? acct-RUS? geoip-RU? deDE speech?:EU? acct-RUS? geoip-RU? deDE text?:EU? acct-RUS? geoip-RU? enUS speech?:EU? acct-RUS? geoip-RU? enUS text?:EU? acct-RUS? geoip-RU? esES speech?:EU? acct-RUS? geoip-RU? esES text?:EU? acct-RUS? geoip-RU? esMX speech?:EU? acct-RUS? geoip-RU? esMX text?:EU? acct-RUS? geoip-RU? frFR speech?:EU? acct-RUS? geoip-RU? frFR text?:EU? acct-RUS? geoip-RU? itIT speech?:EU? acct-RUS? geoip-RU? itIT text?:EU? acct-RUS? geoip-RU? jaJP speech?:EU? acct-RUS? geoip-RU? jaJP text?:EU? acct-RUS? geoip-RU? koKR speech?:EU? acct-RUS? geoip-RU? koKR text?:EU? acct-RUS? geoip-RU? plPL speech?:EU? acct-RUS? geoip-RU? plPL text?:EU? acct-RUS? geoip-RU? ptBR speech?:EU? acct-RUS? geoip-RU? ptBR text?:EU? acct-RUS? geoip-RU? ruRU speech?:EU? acct-RUS? geoip-RU? ruRU text?:EU? acct-RUS? geoip-RU? zhTW speech?:EU? acct-RUS? geoip-RU? zhTW text?",
+    "arabicTagEvidence": "The Tags field contains arSA speech? and arSA text? entries.",
+    "languageSwitcherFiles": [
+      "Arabic.reg",
+      "English.reg",
+      "French.reg",
+      "German.reg",
+      "Italian.reg",
+      "Japanese.reg",
+      "Korean.reg",
+      "Polish.reg",
+      "Portuguese (Brazilian).reg",
+      "Russian.reg",
+      "Simplified Chinese.reg",
+      "Spanish (Latin America).reg",
+      "Spanish.reg",
+      "Traditional Chinese.reg"
+    ],
+    "arabicRegPlainTextValues": {
+      "registryPath": "HKEY_CURRENT_USER\\Software\\Blizzard Entertainment\\Battle.net\\Launch Options\\LAZR",
+      "LOCALE": "arSA",
+      "LOCALE_AUDIO": "arSA"
+    },
+    "currentUserLocaleRegistryKey": "Absent at inspection time",
+    "looseArabicGameAssetsFound": false,
+    "assetArchiveContents": "Not inspected or extracted; numbered data shards and binary index files are opaque in this inspection.",
+    "candidateFormats": "Locale selection .reg text; build/CDN text config; hash-named .index files; numbered binary data shards; no standalone Arabic font or text file identified."
+  },
+  "configEvidence": {
+    "buildProduct": "lazr",
+    "buildVersion": "1.1.2.1279292",
+    "activeLocaleSetting": "Unknown: the queried LAZR user registry key is absent; build metadata and bundled .reg alternatives do not establish the currently selected locale.",
+    "fileSysCheckCfg": "Contains only a comment saying it is a filesystem check file and should contain nothing."
+  },
+  "assessment": {
+    "arabicLocaleCatalogEvidence": true,
+    "installedArabicGameAssetsConfirmed": false,
+    "arabicFontCoverageConfirmed": false,
+    "rtlRenderingConfirmed": false,
+    "inGameLocalizedInterfaceConfirmed": false,
+    "safePackageMethodEstablished": false,
+    "realArabicPackageSupplied": false,
+    "installationEnabled": false,
+    "reason": "No actual compatible Arabic localization package has been supplied or verified, and archive content plus Arabic font/RTL behavior remain unverified."
+  },
+  "safety": {
+    "gameFilesModified": false,
+    "registryModified": false,
+    "registryFilesExecuted": false,
+    "gameExecutableLaunched": false,
+    "permissionsChanged": false
+  },
+  "limitations": [
+    "Arabic arSA text and speech identifiers appear in local build tags, but this does not prove Arabic assets are installed or retrievable for this exact build.",
+    "The language .reg files are settings snippets, not translation packages; they were read as plain text only.",
+    "Archive internals were not extracted or parsed; destination paths and safe replacement method are not established.",
+    "Arabic shaping, bidirectional ordering, glyph coverage, UI layout, and actual in-game Arabic support require a real compatible package and controlled testing.",
+    "The installed locale cannot be determined from the inspected LAZR registry key because it is absent."
+  ],
+  "implementationGate": "Non-destructive launcher foundations such as detection, reporting, package manifest validation, and normal launching can proceed. Installation and restoration must remain disabled until a real Campaign Remastered-compatible package is supplied, its archive/destination method is documented, and Arabic behavior is validated."
+}
